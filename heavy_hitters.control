@@ -1,0 +1,5 @@
+# Heavy hitter extension
+comment = 'A data type tracking heavy hitters with a minimum amount of memory required'
+default_version = '0.1.0'
+module_pathname = '$libdir/heavy_hitters'
+relocatable = true
